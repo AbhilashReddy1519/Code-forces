@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main0 {
+class Main0 {
 
     static FastScanner fs = new FastScanner(System.in);
     static PrintWriter out = new PrintWriter(System.out);
